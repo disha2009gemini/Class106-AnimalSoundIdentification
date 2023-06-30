@@ -1,0 +1,14 @@
+body{
+    background-color:beige;
+    text-align: center;
+}
+
+#copy_right_footer{
+    position: fixed;
+    color: black;
+    border: 2px;
+    text-align: center;
+    text-shadow: 10px;
+    width: 100px;
+    line-height: 5;
+}
